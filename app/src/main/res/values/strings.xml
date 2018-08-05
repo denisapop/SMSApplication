@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS Application</string>
+    <string name="notification_id_channel">default</string>
+    <string name="channel_name">SMS</string>
+    <string name="new_message">You have a new message</string>
+    <string name="messages">From, %1$s \n %2$s </string>
+    <string name="dialog_text">Do you allow us  to access  messages?</string>
+    <string name="important">Important</string>
+</resources>
